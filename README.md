@@ -16,5 +16,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-with-dynamic-font-sizes-and-flexbox-qeDJKWmTNJ)
 - Live Site URL: [GitHub Pages](https://lowkkid.github.io/frontendmentor-blog-preview-card/)
