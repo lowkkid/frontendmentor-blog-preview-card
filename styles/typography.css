@@ -1,0 +1,44 @@
+body {
+  font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+.text-bold {
+  font-weight: 800;
+}
+
+.text-medium {
+  font-weight: 500;
+}
+
+.text-color-dark {
+  color: hsl(0, 0%, 7%);
+}
+
+.text-color-gray {
+  color: hsl(0, 0%, 42%);
+}
+
+.text-sm {
+  font-size: 14px;
+}
+
+.text-md {
+  font-size: 16px;
+}
+
+.text-lg {
+  font-size: 24px;
+}
+
+.title:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
+.no-margin {
+  margin: 0;
+}
