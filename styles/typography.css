@@ -23,15 +23,15 @@ body {
 }
 
 .text-sm {
-  font-size: 14px;
+  font-size: clamp(12px, 0.188vw + 12px, 14px);
 }
 
 .text-md {
-  font-size: 16px;
+  font-size: clamp(14px, 0.188vw + 14px, 16px);
 }
 
 .text-lg {
-  font-size: 24px;
+  font-size: clamp(20px, 0.375vw + 20px, 24px);
 }
 
 .title:hover {
